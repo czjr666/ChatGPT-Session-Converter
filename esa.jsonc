@@ -1,0 +1,7 @@
+{
+  "name": "gpt-session-converter",
+  "assets": {
+    "directory": "./docs",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
